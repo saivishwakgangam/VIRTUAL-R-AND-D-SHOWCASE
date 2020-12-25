@@ -1,2 +1,8 @@
-# VIRTUAL-R-AND-D-SHOWCASE
-# Basically a team of 4 members have built a aframe website to showcase the research happening in my college IIIT Hyderabad using aframe.The posters can be added in json file,to start the project click on entry.html
+# SSD-10-R&D Showcase
+The idea is to develop a WebVR application to showcase the recent Research and Development in IIIT Hyderabad.
+
+No environment dependency for given code.
+
+But it works on some images from the url which is public and downloadable when fetch without the server. If it is fetched with server, any image with url can be fetched.
+
+Just start the project by opening entry.html on browser.
